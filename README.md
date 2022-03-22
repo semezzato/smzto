@@ -1,4 +1,4 @@
-## Fullstack tão novinho? Como assim?
+## O cara que aparece quando vcs chamam o cara que conhece um cara que diz ter escutado sobre o cara. Pois é, eu sou O Cara.
 
 Pois é, se já não bastasse fuçar em tudo, agora tem a Web3! O cara é um gênio.
 
