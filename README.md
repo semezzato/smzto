@@ -1,14 +1,18 @@
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12156355395&cover_image=true&theme=novatorem&bar_color=e3a420&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12156355395&redirect=true)
+<p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=12156355395&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=12156355395&cover_image=true&theme=novatorem&bar_color=e3a420&bar_color_cover=false" />
+  </a>
+</p>
 
 ```yaml
 name: Allan R. Semezzato
 located_in: São Paulo, Brasil
 from: Campinas (Brasil)
 job: Full Stack Web Dev, Writer
-education: ["Hardware and Network Technician", "Communication Technology", "Game Design", "Web Design", "Graphic Design"]
+education: ["Hardware and Network Technician", "Game Design", "Web Design", "Graphic Design"]
 company: own my own
-fields_of_interests: ["Web Systems", "Project Planning", "Marketing Solutions", "SEO", "Creative Design"]
-currently_learning: ["ReactJS"]
+fields_of_interests: ["Web Systems", "Project Making", "Collaborate", "Money"]
+currently_learning: ["ReactJS", "life"]
 hobbies: ["Bike", "Exercise", "Trails", "Philosophy", "Entrepreneurship", "Solitude", "Good Music"]
 superpower: ["Lightbringer", "Create Anything", "Good Listening", "Deep Understanding"]
 ```
