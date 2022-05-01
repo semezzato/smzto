@@ -1,5 +1,3 @@
-![aang1_github](https://user-images.githubusercontent.com/42531679/160004516-7ddb9334-a406-4f1d-bd46-1135c608ce6a.jpg)
-
 ```yaml
 name: Allan R. Semezzato
 located_in: São Paulo, Brasil
@@ -18,3 +16,5 @@ superpower: ["Lightbringer", "Create Anything", "Good Listening", "Deep Understa
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=12156355395&cover_image=true&theme=novatorem&bar_color=e3a420&bar_color_cover=false" />
   </a>
 </p>
+
+![aang1_github](https://user-images.githubusercontent.com/42531679/160004516-7ddb9334-a406-4f1d-bd46-1135c608ce6a.jpg)
