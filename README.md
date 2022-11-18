@@ -1,10 +1,9 @@
 ```yaml
 name: Allan R. Semezzato
-located_in: São Paulo, Brasil
+located_in: Vinhedo, São Paulo, Brasil
 from: Campinas (Brasil)
-job: Full Stack Web Dev, Writer
-education: ["Hardware and Network Technician", "Game Design", "Web Design", "Graphic Design"]
-company: own my own
+job: CEO
+company: Wu-Jei Clan and Taverna Do Dragão
 fields_of_interests: ["Web Systems", "Project Making", "Collaborate", "Money"]
 currently_learning: ["ReactJS", "life"]
 hobbies: ["Bike", "Exercise", "Trails", "Philosophy", "Entrepreneurship", "Solitude", "Good Music"]
